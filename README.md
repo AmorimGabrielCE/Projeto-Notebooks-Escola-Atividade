@@ -48,7 +48,7 @@ As especificações a seguir apresentam os requisitos básicos e ideais para os 
 
 A imagem a seguir representa o tipo de notebook que atenderia às necessidades do nosso projeto, focando em portabilidade e desempenho superior:
 
-![Exemplo de Notebook de Alto Desempenho](https://www.asus.com/media/Odin/Websites/global/Series/9.png)
+![Exemplo de Notebook de Alto Desempenho](notebook.png)
 
 *Representação visual de um notebook moderno, potente e portátil, ideal para o ambiente educacional exigente.*
 
